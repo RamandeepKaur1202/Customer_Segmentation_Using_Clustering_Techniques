@@ -1,0 +1,2 @@
+# Customer_Segmentation_Using_Clustering_Techniques
+Customer segmentation using K-Means and Hierarchical Clustering
